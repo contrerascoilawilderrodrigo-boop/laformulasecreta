@@ -1,0 +1,16 @@
+{
+  "name": "La Fórmula Secreta · Hamburguesas en La Plata",
+  "short_name": "Fórmula Secreta",
+  "description": "Hamburguesas con cheddar fundido y la fórmula secreta. Delivery en La Plata.",
+  "lang": "es-AR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080808",
+  "theme_color": "#080808",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "./icon-512.jpg", "sizes": "512x512", "type": "image/jpeg", "purpose": "any maskable" }
+  ]
+}
